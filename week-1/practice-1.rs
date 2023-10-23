@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-fn fn main() {
+fn main() {
 	println!("Welcome to COS 101!");
 
 	println!("The course learning outcome is as follows:");
@@ -11,7 +11,7 @@ fn fn main() {
 		      5. Navigate the career prospects in computer science,/n 
 		      6. Conversant with computer programming concepts." );
 =======
-fn fn main() {
+fn main() {
 	println!("Welcome to COS 101!");
 
 	println!("The course learning outcome is as follows:");
@@ -22,5 +22,4 @@ fn fn main() {
 		      4. Conversant with applications of computer science,/n
 		      5. Navigate the career prospects in computer science,/n 
 		      6. Conversant with computer programming concepts." );
->>>>>>> 222fa410f7a8bc592e4fdf02116a478b4b8f85d3
 }
