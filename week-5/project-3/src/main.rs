@@ -8,11 +8,11 @@ fn main() {
     let mut input5 = String::new();
 
     println!("Menu: ");
-    println!("P is for Pounded Yam/Edinkaiko Soup - N3200");
-    println!("F is for Fried Rice & Chicken - N3000");
-    println!("A is Amala & Ewedu Soup - N2500");
-    println!("E is Eba and Egusi Soup - N2000");
-    println!("W is White Rice & Stew - N2500");
+    println!("Pounded Yam/Edinkaiko Soup - N3200");
+    println!("Fried Rice & Chicken - N3000");
+    println!("Amala & Ewedu Soup - N2500");
+    println!("Eba and Egusi Soup - N2000");
+    println!("White Rice & Stew - N2500");
 
     println!("Enter Amount of Pounded yam/Edinkaiko soup: ");
     io::stdin().read_line(&mut input1).expect("Not a valid string");
